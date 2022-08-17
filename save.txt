@@ -1,1 +1,1 @@
-{"workTime":"2022-8-17|0:28:43","data":[{"holidayId":88,"name":"国庆节","date":{"year":"2022","month":"10","day":"01","date":"2022-10-01"},"fromNow":45,"length":7},{"holidayId":77,"name":"中秋节","date":{"year":"2022","month":"09","day":"10","date":"2022-09-10"},"fromNow":24,"length":3}]}
+{"workTime":"2022-8-18|0:30:56","data":[{"holidayId":88,"name":"国庆节","date":{"year":"2022","month":"10","day":"01","date":"2022-10-01"},"fromNow":44,"length":7},{"holidayId":77,"name":"中秋节","date":{"year":"2022","month":"09","day":"10","date":"2022-09-10"},"fromNow":23,"length":3}]}
